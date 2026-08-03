@@ -1,0 +1,6 @@
+{
+  "name": "F3 Unisex 24/7 Gym",
+  "description": "Official website for F3 Unisex 24/7 Gym in Agra - 24/7 access, strength training, fat loss, weightlifting & certified fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
